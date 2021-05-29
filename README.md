@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zenthial&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=radical&custom_title=My Stats" />
 </a>
 <a href="https://github.com/Zenthial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenthial&hide_border=true&langs_count=8&hide=stars&show_icons=true&theme=radical&custom_title=My Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenthial&hide_border=true&langs_count=4&hide=stars&show_icons=true&theme=radical&custom_title=My%20Most%20Used%20Languages" />
 </a>
 
 <!--
