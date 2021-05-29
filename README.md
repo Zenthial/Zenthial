@@ -1,4 +1,4 @@
-### Hi I'm Tom. I'm a highschool developer using Lua, Typescript, and Python for my personal projects.
+### Hi I'm Tom! <!-- I'm a highschool developer using Lua, Typescript, and Python for my personal projects. -->
 
 <a href="https://github.com/Zenthial">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zenthial&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats!" />
